@@ -13,42 +13,43 @@
 <h2>Packages</h2>
 <p>We go to by the best private tour organization that cause we wanted passing good experience</p>
 <ul>
-  <li>
-    <a href="#">Group Travels</a>
-  </li>
-  <li>
-    <a href="#">Private Tours</a>
-  </li>
-</ul>
+    <li>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        Group Travels
+      </a>
+    </li>
+    <li>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        Private Tours
+      </a>
+    </li>
+  </ul>
+
 <h2>Top Itineraries</h2>
 
-<a href="https://www.freecodecamp.org/learn" target="_blank"</a>
-
 <figure>
-  <a href="#">
-    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" 
-         alt="Colosseum in Rome">
-  </a>
-  <figcaption>Colosseum - Rome</figcaption>
-</figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" 
+           alt="Colosseum in Rome">
+    </a>
+    <figcaption>Colosseum - Rome</figcaption>
+  </figure>
 
-<figure>
-  <a href="#">
-    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" 
-         alt="Alps Mountains">
-  </a>
-  <figcaption>Alps Mountains</figcaption>
-</figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" 
+           alt="Alps Mountains">
+    </a>
+    <figcaption>Alps Mountains</figcaption>
+  </figure>
 
-<figure>
-  <a href="#">
-    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" 
-         alt="Sea View">
-  </a>
-   <figcaption>Sea View</figcaption>
-</figure>
-
-
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" 
+           alt="Sea View">
+         </a>
+    <figcaption>Sea View</figcaption>
+  </figure>  
 
 </body>
 </html>
